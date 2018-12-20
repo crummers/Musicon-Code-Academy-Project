@@ -36,3 +36,9 @@ const context = {
     }
   ]
 };
+
+const compiledHtml = template(context);
+
+const information = document.getElementById("information");
+
+information.innerHTML = compiledHtml;
