@@ -63,7 +63,9 @@ nav {
 /* Home Page Rulesets */
 
 #introduction {
-text-align: center;
+  margin-top: 15%;
+  margin-bottom: 50%;
+  text-align: center;
 }
 
 #introduction h1 {
